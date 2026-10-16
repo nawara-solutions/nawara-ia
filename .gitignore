@@ -1,0 +1,28 @@
+# Secrets and local environment: never committed. Only *.example templates are tracked.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Personal Claude Code settings (per-machine; e.g. MCP enablement)
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
