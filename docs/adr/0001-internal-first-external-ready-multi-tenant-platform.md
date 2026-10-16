@@ -1,6 +1,6 @@
 # IA-ADR-001: Internal-first, external-ready multi-tenant intelligence platform
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

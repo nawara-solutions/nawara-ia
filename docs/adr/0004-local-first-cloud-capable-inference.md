@@ -1,6 +1,6 @@
 # IA-ADR-004: Local-first, cloud-capable inference with strict provider data policies, controlled fallback and cost limits
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

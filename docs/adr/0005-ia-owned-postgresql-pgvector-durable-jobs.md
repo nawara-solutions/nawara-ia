@@ -1,6 +1,6 @@
 # IA-ADR-005: IA-owned PostgreSQL, pgvector for RAG when needed, durable jobs only when justified
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

@@ -1,6 +1,6 @@
 # IA-ADR-008: Progressive hybrid deployment, local container-based development and independent hosting when justified
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

@@ -1,6 +1,6 @@
 # IA-ADR-011: Reusable constraint-based scheduling optimization with product-specific adapters
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

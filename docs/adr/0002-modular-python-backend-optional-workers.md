@@ -1,6 +1,6 @@
 # IA-ADR-002: Modular Python backend with optional independent workers
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

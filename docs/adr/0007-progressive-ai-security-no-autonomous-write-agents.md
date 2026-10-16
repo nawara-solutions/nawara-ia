@@ -1,6 +1,6 @@
 # IA-ADR-007: Progressive AI security, privacy, prompt-injection controls and no autonomous write-capable agents in V1
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

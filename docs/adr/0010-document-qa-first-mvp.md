@@ -1,6 +1,6 @@
 # IA-ADR-010: Reusable Document Q&A as the first approved business MVP, built on the AI Gateway
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

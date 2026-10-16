@@ -1,6 +1,6 @@
 # IA-ADR-003: Python with FastAPI, typed Pydantic contracts and OpenAPI
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

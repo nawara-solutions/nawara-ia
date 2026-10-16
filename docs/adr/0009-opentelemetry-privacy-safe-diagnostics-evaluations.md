@@ -1,6 +1,6 @@
 # IA-ADR-009: OpenTelemetry, privacy-safe diagnostics, usage accounting and focused evaluations
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

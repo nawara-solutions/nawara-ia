@@ -1,6 +1,6 @@
 # IA-ADR-006: Core-authoritative hybrid authorization, tenant isolation and fail-closed security
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date:** 2026-10-16
 - **Deciders:** Nawara IA Principal Architect; repository owner
 

@@ -51,14 +51,14 @@ in every cross-reference and supersession note.
 
 | ID | Title | Status |
 | -- | ----- | ------ |
-| [IA-ADR-001](./0001-internal-first-external-ready-multi-tenant-platform.md) | Internal-first, external-ready multi-tenant intelligence platform | Proposed |
-| [IA-ADR-002](./0002-modular-python-backend-optional-workers.md) | Modular Python backend with optional independent workers | Proposed |
-| [IA-ADR-003](./0003-python-fastapi-pydantic-openapi.md) | Python with FastAPI, typed Pydantic contracts and OpenAPI | Proposed |
-| [IA-ADR-004](./0004-local-first-cloud-capable-inference.md) | Local-first, cloud-capable inference with strict provider data policies, controlled fallback and cost limits | Proposed |
-| [IA-ADR-005](./0005-ia-owned-postgresql-pgvector-durable-jobs.md) | IA-owned PostgreSQL, pgvector for RAG when needed, durable jobs only when justified | Proposed |
-| [IA-ADR-006](./0006-core-authoritative-authorization-tenant-isolation.md) | Core-authoritative hybrid authorization, tenant isolation and fail-closed security | Proposed |
-| [IA-ADR-007](./0007-progressive-ai-security-no-autonomous-write-agents.md) | Progressive AI security, privacy, prompt-injection controls and no autonomous write-capable agents in V1 | Proposed |
-| [IA-ADR-008](./0008-progressive-hybrid-deployment.md) | Progressive hybrid deployment, local container-based development and independent hosting when justified | Proposed |
-| [IA-ADR-009](./0009-opentelemetry-privacy-safe-diagnostics-evaluations.md) | OpenTelemetry, privacy-safe diagnostics, usage accounting and focused evaluations | Proposed |
-| [IA-ADR-010](./0010-document-qa-first-mvp.md) | Reusable Document Q&A as the first approved business MVP, built on the AI Gateway | Proposed |
-| [IA-ADR-011](./0011-constraint-based-scheduling-optimization.md) | Reusable constraint-based scheduling optimization with product-specific adapters | Proposed |
+| [IA-ADR-001](./0001-internal-first-external-ready-multi-tenant-platform.md) | Internal-first, external-ready multi-tenant intelligence platform | Accepted |
+| [IA-ADR-002](./0002-modular-python-backend-optional-workers.md) | Modular Python backend with optional independent workers | Accepted |
+| [IA-ADR-003](./0003-python-fastapi-pydantic-openapi.md) | Python with FastAPI, typed Pydantic contracts and OpenAPI | Accepted |
+| [IA-ADR-004](./0004-local-first-cloud-capable-inference.md) | Local-first, cloud-capable inference with strict provider data policies, controlled fallback and cost limits | Accepted |
+| [IA-ADR-005](./0005-ia-owned-postgresql-pgvector-durable-jobs.md) | IA-owned PostgreSQL, pgvector for RAG when needed, durable jobs only when justified | Accepted |
+| [IA-ADR-006](./0006-core-authoritative-authorization-tenant-isolation.md) | Core-authoritative hybrid authorization, tenant isolation and fail-closed security | Accepted |
+| [IA-ADR-007](./0007-progressive-ai-security-no-autonomous-write-agents.md) | Progressive AI security, privacy, prompt-injection controls and no autonomous write-capable agents in V1 | Accepted |
+| [IA-ADR-008](./0008-progressive-hybrid-deployment.md) | Progressive hybrid deployment, local container-based development and independent hosting when justified | Accepted |
+| [IA-ADR-009](./0009-opentelemetry-privacy-safe-diagnostics-evaluations.md) | OpenTelemetry, privacy-safe diagnostics, usage accounting and focused evaluations | Accepted |
+| [IA-ADR-010](./0010-document-qa-first-mvp.md) | Reusable Document Q&A as the first approved business MVP, built on the AI Gateway | Accepted |
+| [IA-ADR-011](./0011-constraint-based-scheduling-optimization.md) | Reusable constraint-based scheduling optimization with product-specific adapters | Accepted |
